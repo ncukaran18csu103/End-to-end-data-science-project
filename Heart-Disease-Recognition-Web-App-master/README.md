@@ -7,6 +7,5 @@ Flask application for predicting if anyone is prone to a heart disease or not
 To run type: 
 ```
 python app.py
-```
-![caption](https://www.youtube.com/watch?v=ziOslzUdy5o)
+```https://www.youtube.com/embed/ziOslzUdy5o
 
